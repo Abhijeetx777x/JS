@@ -1,2 +1,2 @@
-# JS
-Trying JS
+#JavaScipt
+Begginer to Advance level
